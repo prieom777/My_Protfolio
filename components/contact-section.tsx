@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, type FormEvent } from "react"
-import { Mail, Linkedin, Github, Send, CheckCircle2 } from "lucide-react"
+import { Mail,phoneCall, Linkedin, Github, Send, CheckCircle2 } from "lucide-react"
 import { SectionHeader } from "./section-header"
 
 const channels = [
@@ -16,12 +16,19 @@ const channels = [
     label: "LinkedIn",
     value: "/in/tanzid-ahmed",
     href: "https://linkedin.com/",
+
   },
   {
     icon: Github,
     label: "GitHub",
     value: "@tanzid-ahmed",
     href: "https://github.com/",
+  },
+  {
+    icon: phoneCall,
+    label: "phone",
+    value: "01886016060",
+    href: "",
   },
 ]
 
