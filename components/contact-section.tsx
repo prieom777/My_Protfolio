@@ -8,21 +8,21 @@ const channels = [
   {
     icon: Mail,
     label: "Email",
-    value: "tanzid.ahmed@example.com",
-    href: "mailto:tanzid.ahmed@example.com",
+    value: "tanzidahmedprieom@gmail.com",
+    href: "mailto:tanzidahmedprieom@gmail.com",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "/in/tanzid-ahmed",
-    href: "https://linkedin.com/",
+    value: "tanzid ahmed prieom",
+    href: "https://www.linkedin.com/in/tanzid-ahmed-prieom-a2b63036a/",
 
   },
   {
     icon: Github,
     label: "GitHub",
-    value: "@tanzid-ahmed",
-    href: "https://github.com/",
+    value: "prieom777",
+    href: "https://github.com/prieom777/My_Protfolio",
   },
   {
     icon: PhoneCall,
