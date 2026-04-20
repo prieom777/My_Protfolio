@@ -24,6 +24,7 @@ const tools: Tool[] = [
   { name: "Jira", tag: "Bug Tracking", icon: Kanban },
   { name: "Git", tag: "Version Control", icon: GitBranch },
   { name: "Jenkins", tag: "CI / CD", icon: Workflow },
+  { name: "Jenkins", tag: "CI / CD", icon: Workflow },
 ]
 
 export function ToolsSection() {
