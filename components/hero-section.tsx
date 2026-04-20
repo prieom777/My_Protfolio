@@ -33,7 +33,7 @@ export function HeroSection() {
           className="animate-fade-up mt-6 text-balance text-5xl font-semibold leading-[1.05] tracking-tight sm:text-6xl md:text-7xl lg:text-8xl"
           style={{ animationDelay: "0.1s" }}
         >
-          <span className="text-gradient">MD. Tanzid Ahmed</span>
+          <span className="text-gradient">MD. TANZID AHMED</span>
         </h1>
 
         <p
