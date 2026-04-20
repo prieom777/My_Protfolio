@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, type FormEvent } from "react"
-import { Mail,phoneCall, Linkedin, Github, Send, CheckCircle2 } from "lucide-react"
+import { Mail, PhoneCall, Linkedin, Github, Send, CheckCircle2 } from "lucide-react"
 import { SectionHeader } from "./section-header"
 
 const channels = [
@@ -25,7 +25,7 @@ const channels = [
     href: "https://github.com/",
   },
   {
-    icon: phoneCall,
+    icon: PhoneCall,
     label: "phone",
     value: "01886016060",
     href: "",
